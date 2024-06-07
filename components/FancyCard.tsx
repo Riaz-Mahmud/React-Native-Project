@@ -32,8 +32,6 @@ const styles = StyleSheet.create({
         width: '100%',
         marginEnd: 10,
         borderRadius: 6,
-        marginVertical: 12,
-        marginHorizontal: 6,
     },
     cardElecated:{
         backgroundColor: '#FFFFFF',
