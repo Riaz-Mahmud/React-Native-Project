@@ -1,11 +1,11 @@
 import { 
-    StyleSheet, 
-    Text, 
-    View, 
-    Linking, 
-    Image, 
-    TouchableOpacity, 
-    ToastAndroid 
+    StyleSheet,
+    Text,
+    View,
+    Linking,
+    Image,
+    TouchableOpacity,
+    ToastAndroid
 } from 'react-native'
 import React from 'react'
 
